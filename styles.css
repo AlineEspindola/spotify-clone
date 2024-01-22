@@ -11,7 +11,7 @@ body {
   width: 300px;
 }
 
-.sidebar__navigation {
+.sidebar__navigation, .sidebar__library {
   background-color: #121212;
   border-radius: 8px;
   padding: 16px 0 0 16px;
@@ -43,4 +43,45 @@ body {
   font-weight: 600;
   font-size: 14px;
   font-family: "DM Sans", sans-serif;
+}
+
+.sidebar__library {
+  padding: 0px 0px 16px 0px; 
+}
+
+.sidebar__library header ul {
+  padding: 8px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 116px
+}
+
+.sidebar__library header {
+  padding: 0px 0px 0px 16px;
+}
+
+.playlist {
+  background-color: #242424;
+  border-radius: 8px;
+  font-weight: 700;
+  margin: 0px 8px 0px 8px;
+}
+
+.playlist .content {
+  color: #fff;
+  padding: 16px 20px;
+}
+
+.playlist .content p {
+  font-weight: 300;
+  font-size: 12px;
+  margin: 12px 0px 20px 0px;
+}
+
+.playlist .content button {
+  background-color: white;
+  font-weight: 700;
+  border-radius: 20px;
+  padding: 8px 12px 8px 12px;
+  border: #fff;
 }
