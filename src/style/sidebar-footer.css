@@ -177,6 +177,7 @@ body {
 .banner__footer {
   background: linear-gradient(to right, #ae2896, #509bf5);
   padding: 14px;
+  max-width: 90vw;
 }
 
 .banner__content {
