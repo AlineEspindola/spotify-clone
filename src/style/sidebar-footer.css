@@ -167,17 +167,17 @@ body {
 
 .banner {
   position: fixed;
-  top: 550px;
+  top: 670px;
   left: 0;
   bottom: 0;
   padding: 12px;
-  width: 1340px;
+  width: 1607px;
 }
 
 .banner__footer {
   background: linear-gradient(to right, #ae2896, #509bf5);
   padding: 14px;
-  max-width: 90vw;
+  max-width: 93vw;
 }
 
 .banner__content {
