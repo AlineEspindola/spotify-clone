@@ -49,6 +49,7 @@
 
 .header__login .subscribe:hover {
   transform: scale(1.04);
+  cursor: pointer;
   /* color: var(--text-base-light); */
 }
 
@@ -100,6 +101,7 @@
   font-size: 16px;
   font-weight: 700;
   border-radius: 40px;
+  cursor: pointer;
 }
 
 .section-cards{
@@ -250,6 +252,7 @@
   position: relative;
   transition: background-color 0.3s ease;
   width: 100%;
+  cursor: pointer;
 }
 
 .artist-card:hover {

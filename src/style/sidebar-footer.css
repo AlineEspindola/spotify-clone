@@ -75,6 +75,7 @@ body {
   text-decoration: none;
   text-transform: none;
   padding: 20px 10px;
+  cursor: pointer;
 }
 
 .library .library__button .fa {
@@ -135,6 +136,7 @@ body {
   margin-top: 12px;
   border: 0px;
   width: 113px;
+  cursor: pointer;
 }
 
 .sidebar .cookies {
@@ -163,21 +165,19 @@ body {
   margin: 8px;
   padding: 8px;
   border-radius: 20px;
+  cursor: pointer;
 }
 
 .banner {
   position: fixed;
-  top: 670px;
   left: 0;
   bottom: 0;
-  padding: 12px;
-  width: 1607px;
+  right: 0;
 }
 
 .banner__footer {
   background: linear-gradient(to right, #ae2896, #509bf5);
   padding: 14px;
-  max-width: 93vw;
 }
 
 .banner__content {
@@ -189,6 +189,7 @@ body {
 .banner__content-text {
   display: flex;
   flex-direction: column;
+  flex-shrink: 0;
 }
 
 .banner__content .text {
@@ -218,5 +219,7 @@ body {
   padding: 16px;
   border: 0px;
   width: 190px;
+  flex-shrink: 0;
+  cursor: pointer;
 }
 
