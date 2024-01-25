@@ -5,4 +5,7 @@
   /* COLORS */
   --bg-icon: #131313;
   --bg-arrow-color: rgba(0,0,07);
+  --bg-color-colorful: linear-gradient(to right, #ff8a00, #e52e71, #663399, #008080, #00ff00);
+  --bg-color-transparent: rgba(0, 0, 0, 0.575);
+  --bg-blur: blur(10px);
 }
