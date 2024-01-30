@@ -32,11 +32,6 @@ Ele foi desenvolvido no curso de Imersão de Front-end da Alura. Com esse projet
 - └── script.js
 
 <hr>
-<div align="center">
-<h3>#ImersãoFrontEnd #Alura</h3>
-</div>
-
-<hr>
 
 <div align="center">
 <h3>꧁ 🔴 Autoria: Aline Espindola 🔴 ꧂</h3>
@@ -46,3 +41,11 @@ Ele foi desenvolvido no curso de Imersão de Front-end da Alura. Com esse projet
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alineabreuespindola@gmail.com)
   
 </div>
+
+<hr>
+
+<div align="center">
+<h3>#ImersãoFrontEnd #Alura</h3>
+</div>
+
+
