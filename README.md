@@ -35,3 +35,14 @@ Ele foi desenvolvido no curso de Imersão de Front-end da Alura. Com esse projet
 <div align="center">
 <h3>#ImersãoFrontEnd #Alura</h3>
 </div>
+
+<hr>
+
+<div align="center">
+<h3>꧁ 🔴 Autoria: Aline Espindola 🔴 ꧂</h3>
+
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/line14)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-espindola-72034b285)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alineabreuespindola@gmail.com)
+  
+</div>
