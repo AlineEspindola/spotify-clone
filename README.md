@@ -44,6 +44,10 @@ Ele foi desenvolvido no curso de Imersão de Front-end da Alura. Com esse projet
 
 <hr>
 
+### Licença: MIT
+
+<hr>
+
 <div align="center">
 <h3>#ImersãoFrontEnd #Alura</h3>
 </div>
